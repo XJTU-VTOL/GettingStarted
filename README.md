@@ -10,8 +10,9 @@
 
 推荐资料：
 
+- 在线学git，[Learn Git Branching](https://learngitbranching.js.org/)
 - 廖雪峰的[`git`简介](https://www.liaoxuefeng.com/wiki/896043488029600)
-- 我整理的一份[`git`文档](./git/git.md)，主要包括`git`的常用命令和常见情况处理
+- 我整理的一份[`git`文档](./git/)，主要包括`git`的常用命令和常见情况处理
 
 
 
@@ -54,7 +55,5 @@
 
 
 ## 往年资料
-
-
 
 - [3D_detect_2019](https://github.com/XJTU-VTOL/3D_detect_2019)：2019年3D识别相关资料
